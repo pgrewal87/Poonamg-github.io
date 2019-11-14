@@ -1,37 +1,51 @@
 body {
     background-color: lightgray;
 }
+
 nav a {
     color: black;
+}
 
-}
-h1,nav{
+h1,
+nav {
     text-align: center;
-    
 }
-h3{
+
+h3 {
     margin-right: 500px;
     font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 2px;
 }
-h2{
+
+h2 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
- .new1{
+
+.new1 {
     border-top: 2px solid black;
     margin-left: auto;
-    margin-right:auto;
-    }
-  .img1{
-      float: right;
-      width: 200px;
-      height: 200px;
-      margin-top: 0%;
-      margin-bottom: 0%;  
-  }
- 
- 
+    margin-right: auto;
+}
 
-  
-  
-      
-  
+.img1 {
+    float: right;
+    width: 200px;
+    height: 200px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+ul {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-weight: 800;
+}
+
+.one {
+    text-indent: 40px;
+}
+
+.img2 {
+    margin-left: 500px;
+}

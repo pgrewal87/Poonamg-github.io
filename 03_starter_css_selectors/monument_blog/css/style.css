@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway:400,600');
+
+/* ----------------------------------------
+Base Styles
+------------------------------------------- */
+
+nav {
+    text-align: center;
+    text-transform: uppercase;
+    word-spacing: 80px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #7B98AA;
+    font-family: "raleway";
+    font-weight: 1600;
+    font-size: 16px;
+}
+
+header a {
+    text-decoration: none;
+    font-family: "raleway";
+    font-weight: 600;
+    color: #44545E;
+}
+
+.headerclass {
+    font-size: 37px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+
+h3 {
+    font-family: "raleway";
+    font-weight: 600;
+    font-size: 18px;
+}
+
+h2 {
+    font-family: "raleway";
+    font-weight: 600;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: "lato";
+    font-weight: 400;
+    font-size: 15px;
+}
+
+
+/* Fix for responsive images */
+
+img {
+    max-width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    font-family: "raleway";
+    font-weight: 600;
+    font-size: 15 px;
+    text-align: center;
+    word-spacing: 80px;
+    background-color: #CDF3F6;
+    background-size: 80px;
+    margin-left: 173px;
+    margin-right: 182px;
+}
+
+footer p {
+    font-family: "lato";
+    font-weight: 400;
+    word-spacing: 5px;
+}
+
+.atag1 {
+    text-decoration: none;
+}
+
+hr {
+    background-color: black;
+}
+
+.para1 {
+    margin-left: 173px;
+    margin-right: 182px;
+    text-align: justify;
+}
+
+.div1 {
+    text-align: justify;
+}
